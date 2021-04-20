@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    background-color: dimgray;
+}
+
+.navbar-bg-dark {
+    background-color: dimgray;
+}
+
+body {
+    background-color: dimgray !important;
+}
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
